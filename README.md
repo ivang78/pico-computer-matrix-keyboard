@@ -32,6 +32,6 @@ sudo cmake install
 ```
 
 ## 3D Printed case
-STL files located at stl/ folder. Case based on ![this-3d-model](https://makerworld.com/ru/models/557186-60-keyboard-with-arrow-keys?from=search#profileId-2597653).
+STL files located at stl/ folder. Case based on [this-3d-model](https://makerworld.com/ru/models/557186-60-keyboard-with-arrow-keys?from=search#profileId-2597653).
 Right part of base has all neccessary holes and stands for mount Raspberry Pi Zero 2W and RCA socker for composite video output.
 All other base parts unmodified. 
